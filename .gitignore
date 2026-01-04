@@ -1,0 +1,19 @@
+# Dependencies
+node_modules
+
+# Build output
+dist
+
+# Environment files
+.env
+.env.local
+
+# IDE
+.vscode
+.idea
+
+# Logs
+*.log
+
+# Personal files
+info.md
